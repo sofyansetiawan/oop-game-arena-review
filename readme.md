@@ -1,7 +1,5 @@
 # REVIEW OOP (Game Arena)
 
-------
-
 ## PLAYER
 
 | type    | attack | life |
