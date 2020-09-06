@@ -12,7 +12,7 @@
 Perilaku: 
 
 - Player punya `healing()` (berbeda tingkat healing tiap jenis player ke life)
-- Player punya `greeting ()` (berbeda tiap player)
+- Player punya `greeting()` (berbeda tiap player misal soldier greeting-nya: `i wanna attack you..`)
 - Player punya status `isDead`
 
 ## ARENA
