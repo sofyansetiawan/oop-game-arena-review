@@ -34,8 +34,6 @@ Aksi:
   - Masing masing player menyerang enemy
   - Tidak bisa dijalankan jika player atau enemy kosong
 
-## Challenge:
-
 - Arena punya`enemyAttack()` 
   - Masing masing enemy menyerang player
   - Tidak bisa dijalankan jika player atau enemy kosong
