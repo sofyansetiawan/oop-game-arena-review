@@ -30,14 +30,13 @@ Aksi:
   - Tidak bisa dijalankan lagi jika sudah penuh atau melebihi kapasitas
 - Arena punya `createEnemy(number)` 
   - Maksimum di jalankan hanya sekali
+  - Nama enemy: `enemy1`, enemy2, enemy3
 - Arena punya `playersAttack()`
   - Masing masing player menyerang enemy
   - Tidak bisa dijalankan jika player atau enemy kosong
-
 - Arena punya`enemyAttack()` 
   - Masing masing enemy menyerang player
   - Tidak bisa dijalankan jika player atau enemy kosong
-  - Nama enemy: `enemy1`, enemy2, enemy3
 - Arena punya`healing()` 
   - Masing masing player yang belum mati bisa healing
   - Hanya bisa dijalankan sekali
